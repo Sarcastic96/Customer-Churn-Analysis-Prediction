@@ -53,13 +53,10 @@ The project starts with SQL-based exploratory data analysis to identify customer
 Customer-Churn-Analysis-Prediction
 │
 ├── images/
-│   ├── dashboard-overview.png
-│   ├── sql-analysis.png
-│   ├── churn-dashboard.png
-│   ├── model-results.png
-│   ├── customer-overview.png
-│   ├── revenue-dashboard.png
-│
+│   ├── dashboard preview 1
+│   ├── dashboard preview 2
+│   ├── confusion matrix
+│   ├── Feature Importance
 ├── Customer_Data.csv
 ├── SQLQueries.sql
 ├── Churn.ipynb
